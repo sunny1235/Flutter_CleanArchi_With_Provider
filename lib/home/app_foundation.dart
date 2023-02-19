@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
-import '../../core/constants/app_text.dart';
-import '../../core/enums/font_type.dart';
+import '../core/constants/app_text.dart';
+import '../core/enums/font_type.dart';
 import 'providers.dart';
 import 'route_paths.dart';
 import 'routes.dart';

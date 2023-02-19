@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_ca_demo/base/base_view_model.dart';
 import 'package:flutter_ca_demo/core/utils/response_message.dart';
 import 'package:flutter_ca_demo/features/authentication/presentation/provider/auth_view_model.dart';
-import 'package:flutter_ca_demo/features/home/route_paths.dart';
+import 'package:flutter_ca_demo/home/route_paths.dart';
 
 import '../widgets/input_form_field.dart';
 

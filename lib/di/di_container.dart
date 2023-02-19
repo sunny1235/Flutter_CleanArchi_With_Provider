@@ -8,10 +8,10 @@ import 'package:get_it/get_it.dart';
 
 
 
-import '../../core/network/connection.dart';
-import '../../core/usecases/safe_api_call_usecase.dart';
-import '../../core/network/safe_api_call.dart';
-import '../authentication/presentation/provider/auth_view_model.dart';
+import '../core/network/connection.dart';
+import '../core/usecases/safe_api_call_usecase.dart';
+import '../core/network/safe_api_call.dart';
+import '../features/authentication/presentation/provider/auth_view_model.dart';
 
 final GetIt locator = GetIt.instance;
 Future<void> initializeDependencies() async {

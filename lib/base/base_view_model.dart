@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 
-import '../features/di/di_container.dart';
+import '../di/di_container.dart';
 import 'base_model.dart';
 
 class BaseView<VM extends BaseModel> extends StatefulWidget {
